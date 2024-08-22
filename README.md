@@ -1,5 +1,5 @@
 # ModelTree
-Collects implementations to identify model ancestry trees from model features
+Collects implementations to identify model ancestry trees from model features. Currently only MoTHer, may be extended in the future.
 
 
 # MoTHeR
